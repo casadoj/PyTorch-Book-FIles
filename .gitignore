@@ -2,3 +2,4 @@
 **/*.tsv
 **/*.txt
 **/*.pth
+**/__pycache__/
